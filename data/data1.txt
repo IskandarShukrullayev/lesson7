@@ -1,0 +1,2 @@
+Hello from Process 1!
+lazy
